@@ -13,4 +13,4 @@ How To Use it
 (/ 'o')--c[_] Click the button
 <a href='http://www.pledgie.com/campaigns/18357'><img alt='Click here to lend your support to: iOS Wordpress Reader and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/18357.png?skin_name=chrome' border='0' /></a>
 
-If you feel this is useful and want to treat me a cup of coffee :D
+If you feel this is useful and want to buy me a cup of coffee :D
